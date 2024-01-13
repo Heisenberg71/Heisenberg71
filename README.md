@@ -5,17 +5,19 @@ I am Samin Yasir. I am a software engineer from Bangladesh. I am highly interest
 ![Sadman's stat](https://github-readme-stats.vercel.app/api?username=Heisenberg71&show_icons=true&count_private=true)
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Heisenberg71)
 
-<!--
-**Heisenberg71/Heisenberg71** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Skills
+* Java Springboot, C/C++.
+* SQL(Postgres, MySQL).
+* Data Structures & Algorithms, Competitive Programming.
+* Micro-service architecture and distributed system.
+  
+## Currently doing
+- 🔭 Learning Java, Spring-boot, Junit, RabbitMQ.
+- 🌱 Learning Design Patterns & System Design. 
 
-Here are some ideas to get you started:
+## Work Experience
+* Software Engineer (Kona Software Lab.)
+* Software Engineer (Samsung R&D - 6 months.)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Leadership Skills
+* Founder - CP Traning Club, A Competetive Programming Training Instructor
