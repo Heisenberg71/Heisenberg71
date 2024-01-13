@@ -20,4 +20,4 @@ I am Samin Yasir. I am a software engineer from Bangladesh. I am highly interest
 * Software Engineer (Samsung R&D - 6 months.)
 
 ## Leadership Skills
-* Founder - CP Traning Club, A Competetive Programming Training Instructor
+* Founder - CP Traning Club, A Competetive Programming Training Club
