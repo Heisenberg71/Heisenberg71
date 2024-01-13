@@ -1,6 +1,10 @@
 ## Samin Yasir - Software Engineer
 I am Samin Yasir. I am a software engineer from Bangladesh. I am highly interested to learn and work with cutting-edge technologies
 
+## Github Stats
+![Sadman's stat](https://github-readme-stats.vercel.app/api?username=Heisenberg71&show_icons=true&count_private=true)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Heisenberg71)
+
 <!--
 **Heisenberg71/Heisenberg71** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
