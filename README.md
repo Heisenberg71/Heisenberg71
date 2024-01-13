@@ -1,4 +1,5 @@
-### Hi there 👋
+### Samin Yasir - Software Engineer
+I am Samin Yasir. I am a software engineer from Bangladesh. I am highly interested to learn and work with cutting-edge technologies
 
 <!--
 **Heisenberg71/Heisenberg71** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
