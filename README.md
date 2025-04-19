@@ -13,17 +13,9 @@
 
 ## 👨‍💻 About Me
 
-I'm currently working as a full-time backend engineer at **KONA Software Lab**, building a token service provider (TSP) module that follows EMV (Europay, MasterCard, Visa) specifications. My responsibilities include:
+I’m a backend software engineer who loves diving deep into systems and building software that’s scalable, reliable, and easy to maintain. Right now, I’m working at KONA Software Lab, where I help develop secure, high-performance payment systems for the fintech space. It’s a role that’s taught me a lot about building robust systems with a strong focus on security and precision.
 
-- Token Life Cycle Management System  
-- Issuer Callback Processing  
-- Token Vault Creation System  
-- Issuer Onboarding System  
-- TSP Reporting System  
-
-Previously, I worked at Samsung R&D Institute, Bangladesh, contributing to the Samsung Galaxy Smart Watch Notification module. I passed Samsung’s Global Professional Test and mentored others in preparing for it.
-
-I graduated from **Sylhet Engineering College** and have a strong background in competitive programming and DSA training, mentoring junior problem solvers, taking workshops, and hosting contests.
+Before this, I graduated from Sylhet Engineering College and started my career at Samsung R&D Institute Bangladesh. I also spent a lot of time during my undergrad doing competitive programming, which really sharpened my problem-solving skills. On top of that, I’ve enjoyed mentoring others—running workshops, hosting contests, and helping juniors get better at DSA.
 
 ---
 
