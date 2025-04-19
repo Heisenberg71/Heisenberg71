@@ -3,7 +3,6 @@
 **Software Engineer | Competitive Programmer**  
 📍 Dhaka, Bangladesh  
 📧 samin99099@gmail.com  
-🐙 [GitHub](https://github.com/Heisenberg71) | 📺 [YouTube](https://youtube.com/@saminYasir007) | ✍️ [Medium](https://medium.com/@saminYasir)
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Heisenberg71)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@saminYasir007)
