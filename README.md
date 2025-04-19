@@ -104,18 +104,18 @@ I graduated from **Sylhet Engineering College** and have a strong background in 
 
 ## 💻 Projects
 
-### 🤖 AI Helper Bot  
+### [🤖 AI Helper Bot](https://github.com/Heisenberg71/nano-shoes-ai-helper-bot)  
 **Tech:** Python, LangChain, OpenAI API, Streamlit  
 - Built a custom Q&A chatbot using LangChain + OpenAI API  
 - Enabled dynamic, modular NLP-powered question answering
 
-### 🌦️ Enhanced Weather Analyzer  
+### [🌦️ Enhanced Weather Analyzer](https://github.com/Heisenberg71/weather-app)  
 **Tech:** Java, Spring Boot, Redis, PostgreSQL, Docker  
 - Collected weather data via the VisualCrossing API  
 - Used Redis caching to reduce query latency  
 - Containerized with Docker for scalable deployment
 
-### 📄 Resume Analyzer  
+### [📄 Resume Analyzer](https://github.com/Heisenberg71/Personal_projects/tree/main/Resume%20Analyzer)  
 **Tech:** Python, PDFminer, NLTK, Cosine Similarity  
 - Compared resume and job requirement PDFs  
 - Extracted and matched skills with Cosine Similarity scoring
