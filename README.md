@@ -37,13 +37,13 @@ Before this, I graduated from Sylhet Engineering College and started my career a
 - Reduced Test Suite Execution Time by 30% by optimizing bean management  
 - Developed and tested Token Service Provider (TSP) aligned with MasterCard Specs  
 - Contributed 1000+ Unit Test Cases, covering 550+ methods across 80+ classes
+- Integrated Keycloak for Single Sign-On (SSO)  
+- Enabled fault tolerance & async communication using Kafka  
 
 ### 📱 Software Engineer  
 **Samsung R&D Institute, Bangladesh** | *Apr 2023 – Sep 2023*  
 - Worked on Samsung Galaxy Watch 6 Notifications using Android (Java)  
 - Passed Samsung’s Global Professional Test and mentored peers  
-- Integrated Keycloak for Single Sign-On (SSO)  
-- Enabled fault tolerance & async communication using Kafka  
 - Discovered critical bugs through manual testing, improving UX
 
 ---
