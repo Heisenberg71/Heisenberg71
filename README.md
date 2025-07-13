@@ -15,7 +15,7 @@
 
 I’m a backend software engineer who loves diving deep into systems and building software that’s scalable, reliable, and easy to maintain. Right now, I’m working at KONA Software Lab, where I help develop secure, high-performance payment systems for the fintech space. It’s a role that’s taught me a lot about building robust systems with a strong focus on security and precision.
 
-Before this, I graduated from Sylhet Engineering College and started my career at Samsung R&D Institute Bangladesh. I also spent a lot of time during my undergrad doing competitive programming, which really sharpened my problem-solving skills. On top of that, I’ve enjoyed mentoring others—running workshops, hosting contests, and helping juniors get better at DSA.
+Before this, I graduated from Sylhet Engineering College and started my career at Samsung R&D Institute Bangladesh. I also spent a lot of time during my undergrad doing competitive programming, which really sharpened my problem-solving skills. On top of that, I’ve enjoyed mentoring others, running workshops, hosting contests, and helping juniors get better at DSA.
 
 ---
 
